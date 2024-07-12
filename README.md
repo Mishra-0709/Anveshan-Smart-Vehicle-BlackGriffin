@@ -30,7 +30,7 @@ The Smart Vehicle Border and Alert System addresses these challenges by:
 4. **Gear-Based Speed Control**: Implementing control mechanisms to adjust speed based on gear position.
 5. **Machine Learning Models**: Training models to monitor real-time speed dynamics and generate alerts.
 6. **Public Safety Measures**: Enhancing security and personalization through V2X communication.
-
+   
 ## Innovation
 Our proposal stands out due to its comprehensive integration of multiple safety mechanisms with machine learning models. Key innovative aspects include:
 - **Increased Safety**: Preventing lane departure and alerting drivers to potential collisions.
